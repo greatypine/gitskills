@@ -1,2 +1,3 @@
 hello world!!
 this is a beautiful day,we will get our goal!
+my first git txt test!
